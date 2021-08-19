@@ -29,7 +29,7 @@
 
 ##### 상세 페이지
 ---
-![alt](/images/cli/상세1.PNG)
+![alt](/images/cli/상세.PNG)
 ![alt](/images/cli/상세2.PNG)
 
 
