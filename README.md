@@ -60,7 +60,7 @@
 ---
 ##### PM2
 ---
-![alt](/images/cli/pm2.PNG)
+![alt](/images/svr/pm2.PNG)
 
 ##### 환경분리
 ---
